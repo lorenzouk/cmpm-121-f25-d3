@@ -10,7 +10,8 @@
 }
 
 /* Shared styles for High Score and Status panels */
-#highScorePanel, #statusPanel {
+#highScorePanel,
+#statusPanel {
   position: absolute;
   top: 10px;
   left: 10px;
